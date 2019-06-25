@@ -5,8 +5,8 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               MacPukPro.git
-tagline:             'A Jekyll theme'
+title:               MacPukPro
+tagline:             'A place to log my life'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 "https://macpuk.pro"
 baseurl:             ''
